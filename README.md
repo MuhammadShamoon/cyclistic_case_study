@@ -17,9 +17,13 @@ Cyclistic’s historical trip data: The primary dataset used for this analysis i
 ### Data Cleaning/Preparation
 
 In the initial data preparation phase, we performed the following tasks:
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+- Data loading and inspection.
+- Added Column “trip_length_min” to track the duration of each ride in minutes.
+- Added Column “day_of_week” to analyze the behaviour of customers on weekdays and weekends. 
+- Handling missing values.
+- Data cleaning and formatting.
+
+### Data Analysis
 
 
 
