@@ -69,13 +69,27 @@ ORDER BY
 
 The analysis results are summarized as follows:
 
-1. During weekends(Sat and Sun), the number of rides for both categories exhibits a similar bell-shaped pattern having a peak around 2 pm.
+1. The average trip length of casual riders is approximately four times of annual members.
 
+![trip length comparison](https://github.com/MuhammadShamoon/cyclistic_case_study/assets/52103515/cf941372-5a5a-4891-92f0-808945ca85f8)
 
+2. During weekends, the annual members use bikes from afternoon to evening, but during weekdays they mostly use them at 8 am and 5 pm to commute to work.
 
+![Annual members](https://github.com/MuhammadShamoon/cyclistic_case_study/assets/52103515/9ed02246-bd2d-40bc-ab4a-ce18b9bd704b)
 
+3. The number of Casual riders reached its peak value around 2 pm and performed a bell-shaped pattern. They are more likely to ride for leisure.
 
+![Casual Riders Population](https://github.com/MuhammadShamoon/cyclistic_case_study/assets/52103515/154e52dd-ef2e-40d4-8ead-83b337f44604)
 
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+
+-
+-
+-
+
+### Limitations
 
 
 
