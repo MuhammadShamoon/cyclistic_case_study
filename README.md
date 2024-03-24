@@ -6,7 +6,7 @@ In this case study, we will work for Cyclistic, a fictional bike-share company i
 
 ### Data Sources
 
-Cyclistic’s historical trip data: The primary dataset used for this analysis is the "Trips_2020.csv" file, made available by Motivate International Inc. to analyze and identify trends within one quarter of a year. This public data can be used to explore how different customer types are using Cyclistic bikes.
+Cyclistic’s historical trip data: The primary dataset used for this analysis is the "Divvy_Trips_2020_Q1.csv" file, made available by Motivate International Inc. to analyze and identify trends within one quarter of a year. This public data can be used to explore how different customer types are using Cyclistic bikes.
 
 ### Tools
 
