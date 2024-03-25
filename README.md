@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-In this case study, we will work for Cyclistic, a fictional bike-share company in Chicago. The customers who purchase single-ride or full-day passes are called casual riders and customers who purchase annual memberships are Cyclistic annual members. The marketing director believes the company’s future success depends on maximizing the number of annual memberships. He has set a clear goal to Design marketing strategies to convert casual riders into annual members. However, the marketing analyst team needs to understand better how annual members and casual riders differ.
+In this case study, we will work for Cyclistic, a fictional bike-share company in Chicago. The customers who purchase single-ride or full-day passes are called casual riders and customers who purchase annual memberships are Cyclistic annual members. The marketing director believes the company’s future success depends on maximizing the number of annual memberships. He has set a clear goal to *Design marketing strategies to convert casual riders into annual members. However, the marketing analyst team needs to understand how annual members and casual riders differ.*
 
 ### Data Sources
 
@@ -81,15 +81,21 @@ The analysis results are summarized as follows:
 
 ![Casual Riders Population](https://github.com/MuhammadShamoon/cyclistic_case_study/assets/52103515/154e52dd-ef2e-40d4-8ead-83b337f44604)
 
+
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
 
--
--
--
+- Create segments based on behaviour patterns such as trip length and timing of bike usage and identify the daily subscribers who demonstrate patterns similar to annual members in terms of usage.
 
-### Limitations
+- Highlight how an annual membership provides unlimited access to bikes, encouraging more frequent and varied usage.
+
+- Provide incentives such as free months, discounted rates, or bonus ride credits to encourage conversion.
+
+- Organize community events or group rides to engage current daily subscribers and showcase the benefits of annual membership.
+
+- Incorporate feedback from users to refine and improve the conversion process over time.
+
 
 
 
