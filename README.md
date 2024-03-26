@@ -96,5 +96,13 @@ Based on the analysis, we recommend the following actions:
 
 - Incorporate user feedback to refine and improve the conversion process over time.
 
+### Limitations
+
+Due to privacy reasons, user information is not included in the dataset. Therefore, this analysis is based on the behaviour of individual rides instead of the customers.
+
+
+
+
+
 
 
