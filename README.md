@@ -88,14 +88,13 @@ Based on the analysis, we recommend the following actions:
 
 - Create segments based on behaviour patterns such as trip length and timing of bike usage and identify the daily subscribers who demonstrate patterns similar to annual members in terms of usage.
 
-- Highlight how an annual membership provides unlimited access to bikes, encouraging more frequent and varied usage.
+- Highlight how an annual membership provides unlimited bike access, encouraging more frequent and varied usage.
 
 - Provide incentives such as free months, discounted rates, or bonus ride credits to encourage conversion.
 
-- Organize community events or group rides to engage current daily subscribers and showcase the benefits of annual membership.
+- Organize community events or group rides to engage current daily subscribers and showcase annual membership benefits.
 
-- Incorporate feedback from users to refine and improve the conversion process over time.
-
+- Incorporate user feedback to refine and improve the conversion process over time.
 
 
 
