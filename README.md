@@ -14,7 +14,7 @@ Cyclistic’s historical trip data: The primary dataset used for this analysis i
 - BigQuery - Data analysis
 - Tableau - Creating visualizations
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 - Data loading and inspection.
